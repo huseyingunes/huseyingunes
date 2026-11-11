@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="422" viewBox="0 0 840 422" role="img" aria-label="Öne çıkan projeler">
+  <title>Öne çıkan projeler</title>
+  <defs>
+    
+    <radialGradient id="leke0" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#1f6feb" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="leke1" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2ea043" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#2ea043" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="leke2" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8957e5" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#8957e5" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="dis"><rect x="1" y="1" width="838" height="420" rx="18"/></clipPath>
+    <linearGradient id="kenar" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#3fb950" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#a371f7" stop-opacity="0.5"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .s{font-family:'Segoe UI', Inter, Ubuntu, 'Helvetica Neue', Arial, sans-serif}
+    .m{font-family:'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', 'DejaVu Sans Mono', monospace}
+    .kay{animation:kay 14s ease-in-out infinite}
+    .kay1{animation-duration:18s;animation-direction:reverse}
+    .kay2{animation-duration:22s}
+    @keyframes kay{0%,100%{transform:translate(0,0)}50%{transform:translate(40px,12px)}}
+    @keyframes belir{from{opacity:0}to{opacity:1}}
+    @keyframes yanip{0%,49%{opacity:1}50%,100%{opacity:0}}
+    @keyframes nabiz{0%,100%{opacity:1}50%{opacity:.35}}
+    .imlec{animation:yanip 1.1s steps(1) infinite}
+    .nabiz{animation:nabiz 2.4s ease-in-out infinite}
+    .kutu{animation:belir .7s ease-out both}
+  </style>
+  <rect x="1" y="1" width="838" height="420" rx="18" fill="#0b0f15"/>
+  <g clip-path="url(#dis)"><ellipse class="kay kay0" cx="150" cy="40" rx="230" ry="150" fill="url(#leke0)"/><ellipse class="kay kay1" cx="700" cy="60" rx="230" ry="150" fill="url(#leke1)"/><ellipse class="kay kay2" cx="420" cy="402" rx="230" ry="150" fill="url(#leke2)"/></g>
+  <rect x="1" y="1" width="838" height="420" rx="18" fill="none" stroke="url(#kenar)" stroke-width="1.2"/>
+  <rect x="22" y="22" width="796" height="378" rx="14" fill="#0d1117" fill-opacity="0.55" stroke="#58a6ff" stroke-opacity="0.32"/>
+  
+  <text class="m" x="46" y="60" font-size="12" font-weight="700" letter-spacing="2" fill="#58a6ff">PROJELER.LİSTE</text>
+  <text class="m" x="200" y="60" font-size="11" fill="#6e7681">./projeler.sh --tumu</text>
+  <text class="m" x="794" y="60" text-anchor="end" font-size="11" fill="#6e7681">4 proje</text>
+  <g class="kutu" style="animation-delay:0.00s">
+    <rect x="46" y="84" width="366" height="140" rx="10" fill="#0d1117" fill-opacity="0.75" stroke="#30363d"/>
+    <text class="m" x="60" y="103" font-size="10" fill="#8b949e">▸ goruntu_isleme</text>
+    <line x1="46" y1="112" x2="412" y2="112" stroke="#21262d"/>
+    <circle class="nabiz" cx="396" cy="99" r="3.5" fill="#3fb950"/>
+    <text class="m" x="60" y="136" font-size="15" font-weight="700" fill="#f0f6fc">goruntu_isleme</text>
+    <rect class="imlec" x="190" y="134" width="8" height="2" fill="#f0f6fc"/>
+    <text class="m" x="60" y="156" font-size="10.5" fill="#8b949e">Görüntü İşleme Dersi Örnekleri</text>
+    <rect x="60" y="180" width="112" height="18" rx="9" fill="#1f6feb" fill-opacity="0.12" stroke="#388bfd" stroke-opacity="0.45"/>
+      <text class="m" x="116" y="192.5" text-anchor="middle" font-size="10" fill="#79c0ff">jupyter notebook</text><rect x="178" y="180" width="40" height="18" rx="9" fill="#1f6feb" fill-opacity="0.12" stroke="#388bfd" stroke-opacity="0.45"/>
+      <text class="m" x="198" y="192.5" text-anchor="middle" font-size="10" fill="#79c0ff">html</text><rect x="224" y="180" width="52" height="18" rx="9" fill="#1f6feb" fill-opacity="0.12" stroke="#388bfd" stroke-opacity="0.45"/>
+      <text class="m" x="250" y="192.5" text-anchor="middle" font-size="10" fill="#79c0ff">python</text>
+    <text class="m" x="60" y="212" font-size="10.5" fill="#8b949e"><tspan fill="#58a6ff">★ 175</tspan>   güncellendi 5 ay önce</text>
+    <g class="halka">
+    <circle cx="364" cy="156" r="25" fill="none" stroke="#21262d" stroke-width="7"/>
+    <circle cx="364" cy="156" r="25" fill="none" stroke="#DA5B0B" stroke-width="7"
+      stroke-dasharray="126.43 157.08" stroke-dashoffset="0.00"
+      transform="rotate(-90 364 156)"/><circle cx="364" cy="156" r="25" fill="none" stroke="#e34c26" stroke-width="7"
+      stroke-dasharray="19.19 157.08" stroke-dashoffset="-127.63"
+      transform="rotate(-90 364 156)"/><circle cx="364" cy="156" r="25" fill="none" stroke="#3572A5" stroke-width="7"
+      stroke-dasharray="7.39 157.08" stroke-dashoffset="-148.02"
+      transform="rotate(-90 364 156)"/><circle cx="364" cy="156" r="25" fill="none" stroke="#f1e05a" stroke-width="7"
+      stroke-dasharray="0.00 157.08" stroke-dashoffset="-156.61"
+      transform="rotate(-90 364 156)"/><circle cx="364" cy="156" r="25" fill="none" stroke="#663399" stroke-width="7"
+      stroke-dasharray="0.00 157.08" stroke-dashoffset="-157.08"
+      transform="rotate(-90 364 156)"/>
+    <text class="m" x="364" y="160" text-anchor="middle" font-size="11" font-weight="700" fill="#f0f6fc">%81</text>
+    <text class="m" x="364" y="199" text-anchor="middle" font-size="9" fill="#8b949e">Jupyter Notebook</text>
+  </g>
+  </g><g class="kutu" style="animation-delay:0.15s">
+    <rect x="428" y="84" width="366" height="140" rx="10" fill="#0d1117" fill-opacity="0.75" stroke="#30363d"/>
+    <text class="m" x="442" y="103" font-size="10" fill="#8b949e">▸ python_programlama</text>
+    <line x1="428" y1="112" x2="794" y2="112" stroke="#21262d"/>
+    <circle class="nabiz" cx="778" cy="99" r="3.5" fill="#3fb950"/>
+    <text class="m" x="442" y="136" font-size="15" font-weight="700" fill="#f0f6fc">python_programlama</text>
+    <rect class="imlec" x="608" y="134" width="8" height="2" fill="#f0f6fc"/>
+    <text class="m" x="442" y="156" font-size="10.5" fill="#8b949e">Açıklama eklenmemiş.</text>
+    <rect x="442" y="180" width="52" height="18" rx="9" fill="#1f6feb" fill-opacity="0.12" stroke="#388bfd" stroke-opacity="0.45"/>
+      <text class="m" x="468" y="192.5" text-anchor="middle" font-size="10" fill="#79c0ff">python</text><rect x="500" y="180" width="40" height="18" rx="9" fill="#1f6feb" fill-opacity="0.12" stroke="#388bfd" stroke-opacity="0.45"/>
+      <text class="m" x="520" y="192.5" text-anchor="middle" font-size="10" fill="#79c0ff">html</text><rect x="546" y="180" width="112" height="18" rx="9" fill="#1f6feb" fill-opacity="0.12" stroke="#388bfd" stroke-opacity="0.45"/>
+      <text class="m" x="602" y="192.5" text-anchor="middle" font-size="10" fill="#79c0ff">jupyter notebook</text>
+    <text class="m" x="442" y="212" font-size="10.5" fill="#8b949e"><tspan fill="#58a6ff">★ 159</tspan>   güncellendi 11 ay önce</text>
+    <g class="halka">
+    <circle cx="746" cy="156" r="25" fill="none" stroke="#21262d" stroke-width="7"/>
+    <circle cx="746" cy="156" r="25" fill="none" stroke="#3572A5" stroke-width="7"
+      stroke-dasharray="116.38 157.08" stroke-dashoffset="0.00"
+      transform="rotate(-90 746 156)"/><circle cx="746" cy="156" r="25" fill="none" stroke="#e34c26" stroke-width="7"
+      stroke-dasharray="22.60 157.08" stroke-dashoffset="-117.58"
+      transform="rotate(-90 746 156)"/><circle cx="746" cy="156" r="25" fill="none" stroke="#DA5B0B" stroke-width="7"
+      stroke-dasharray="14.35 157.08" stroke-dashoffset="-141.38"
+      transform="rotate(-90 746 156)"/><circle cx="746" cy="156" r="25" fill="none" stroke="#447265" stroke-width="7"
+      stroke-dasharray="0.00 157.08" stroke-dashoffset="-156.93"
+      transform="rotate(-90 746 156)"/>
+    <text class="m" x="746" y="160" text-anchor="middle" font-size="11" font-weight="700" fill="#f0f6fc">%75</text>
+    <text class="m" x="746" y="199" text-anchor="middle" font-size="9" fill="#8b949e">Python</text>
+  </g>
+  </g><g class="kutu" style="animation-delay:0.30s">
+    <rect x="46" y="238" width="366" height="140" rx="10" fill="#0d1117" fill-opacity="0.75" stroke="#30363d"/>
+    <text class="m" x="60" y="257" font-size="10" fill="#8b949e">▸ ileri_internet_programlama</text>
+    <line x1="46" y1="266" x2="412" y2="266" stroke="#21262d"/>
+    <circle class="nabiz" cx="396" cy="253" r="3.5" fill="#3fb950"/>
+    <text class="m" x="60" y="290" font-size="15" font-weight="700" fill="#f0f6fc">ileri_internet_programlama</text>
+    <rect class="imlec" x="298" y="288" width="8" height="2" fill="#f0f6fc"/>
+    <text class="m" x="60" y="310" font-size="10.5" fill="#8b949e">Açıklama eklenmemiş.</text>
+    <rect x="60" y="334" width="76" height="18" rx="9" fill="#1f6feb" fill-opacity="0.12" stroke="#388bfd" stroke-opacity="0.45"/>
+      <text class="m" x="98" y="346.5" text-anchor="middle" font-size="10" fill="#79c0ff">typescript</text><rect x="142" y="334" width="34" height="18" rx="9" fill="#1f6feb" fill-opacity="0.12" stroke="#388bfd" stroke-opacity="0.45"/>
+      <text class="m" x="159" y="346.5" text-anchor="middle" font-size="10" fill="#79c0ff">css</text><rect x="182" y="334" width="76" height="18" rx="9" fill="#1f6feb" fill-opacity="0.12" stroke="#388bfd" stroke-opacity="0.45"/>
+      <text class="m" x="220" y="346.5" text-anchor="middle" font-size="10" fill="#79c0ff">javascript</text>
+    <text class="m" x="60" y="366" font-size="10.5" fill="#8b949e"><tspan fill="#58a6ff">★ 134</tspan>   güncellendi 12 ay önce</text>
+    <g class="halka">
+    <circle cx="364" cy="310" r="25" fill="none" stroke="#21262d" stroke-width="7"/>
+    <circle cx="364" cy="310" r="25" fill="none" stroke="#3178c6" stroke-width="7"
+      stroke-dasharray="120.10 157.08" stroke-dashoffset="0.00"
+      transform="rotate(-90 364 310)"/><circle cx="364" cy="310" r="25" fill="none" stroke="#663399" stroke-width="7"
+      stroke-dasharray="28.37 157.08" stroke-dashoffset="-121.30"
+      transform="rotate(-90 364 310)"/><circle cx="364" cy="310" r="25" fill="none" stroke="#f1e05a" stroke-width="7"
+      stroke-dasharray="5.01 157.08" stroke-dashoffset="-150.87"
+      transform="rotate(-90 364 310)"/>
+    <text class="m" x="364" y="314" text-anchor="middle" font-size="11" font-weight="700" fill="#f0f6fc">%77</text>
+    <text class="m" x="364" y="353" text-anchor="middle" font-size="9" fill="#8b949e">TypeScript</text>
+  </g>
+  </g><g class="kutu" style="animation-delay:0.45s">
+    <rect x="428" y="238" width="366" height="140" rx="10" fill="#0d1117" fill-opacity="0.75" stroke="#30363d"/>
+    <text class="m" x="442" y="257" font-size="10" fill="#8b949e">▸ qpulsar/kodaman</text>
+    <line x1="428" y1="266" x2="794" y2="266" stroke="#21262d"/>
+    <circle class="nabiz" cx="778" cy="253" r="3.5" fill="#3fb950"/>
+    <text class="m" x="442" y="290" font-size="15" font-weight="700" fill="#f0f6fc">kodaman</text>
+    <rect class="imlec" x="509" y="288" width="8" height="2" fill="#f0f6fc"/>
+    <text class="m" x="442" y="310" font-size="10.5" fill="#8b949e">Kodlama eğitiminde kodları öğrencilerin</text><text class="m" x="442" y="324" font-size="10.5" fill="#8b949e">bilgisayarına dağıtacak node.js tabanlı…</text>
+    <rect x="442" y="334" width="34" height="18" rx="9" fill="#1f6feb" fill-opacity="0.12" stroke="#388bfd" stroke-opacity="0.45"/>
+      <text class="m" x="459" y="346.5" text-anchor="middle" font-size="10" fill="#79c0ff">css</text><rect x="482" y="334" width="76" height="18" rx="9" fill="#1f6feb" fill-opacity="0.12" stroke="#388bfd" stroke-opacity="0.45"/>
+      <text class="m" x="520" y="346.5" text-anchor="middle" font-size="10" fill="#79c0ff">javascript</text><rect x="564" y="334" width="40" height="18" rx="9" fill="#1f6feb" fill-opacity="0.12" stroke="#388bfd" stroke-opacity="0.45"/>
+      <text class="m" x="584" y="346.5" text-anchor="middle" font-size="10" fill="#79c0ff">html</text>
+    <text class="m" x="442" y="366" font-size="10.5" fill="#8b949e"><tspan fill="#58a6ff">★ 4</tspan>   güncellendi 9 yıl önce</text>
+    <g class="halka">
+    <circle cx="746" cy="310" r="25" fill="none" stroke="#21262d" stroke-width="7"/>
+    <circle cx="746" cy="310" r="25" fill="none" stroke="#663399" stroke-width="7"
+      stroke-dasharray="115.93 157.08" stroke-dashoffset="0.00"
+      transform="rotate(-90 746 310)"/><circle cx="746" cy="310" r="25" fill="none" stroke="#f1e05a" stroke-width="7"
+      stroke-dasharray="30.18 157.08" stroke-dashoffset="-117.13"
+      transform="rotate(-90 746 310)"/><circle cx="746" cy="310" r="25" fill="none" stroke="#e34c26" stroke-width="7"
+      stroke-dasharray="7.31 157.08" stroke-dashoffset="-148.51"
+      transform="rotate(-90 746 310)"/><circle cx="746" cy="310" r="25" fill="none" stroke="#f34b7d" stroke-width="7"
+      stroke-dasharray="0.00 157.08" stroke-dashoffset="-157.02"
+      transform="rotate(-90 746 310)"/>
+    <text class="m" x="746" y="314" text-anchor="middle" font-size="11" font-weight="700" fill="#f0f6fc">%75</text>
+    <text class="m" x="746" y="353" text-anchor="middle" font-size="9" fill="#8b949e">CSS</text>
+  </g>
+  </g>
+  <text class="s" x="822" y="414" text-anchor="end" font-size="9" fill="#6e7681">github.com/huseyingunes</text>
+</svg>
