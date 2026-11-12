@@ -56,9 +56,9 @@
       <rect x="236.5" y="106" width="176.5" height="84" rx="12" fill="#0d1117" fill-opacity="0.7" stroke="#58a6ff" stroke-opacity="0.35"/>
       <text class="s" x="252.5" y="131" font-size="12.5" font-weight="700" fill="#c9d1d9">Katkı</text>
       <text class="s" x="399" y="131" text-anchor="end" font-size="9.5" fill="#6e7681">hedef 500</text>
-      <text class="s" x="252.5" y="164" font-size="30" font-weight="800" fill="#39c5cf">372</text>
+      <text class="s" x="252.5" y="164" font-size="30" font-weight="800" fill="#39c5cf">374</text>
       <rect x="252.5" y="174" width="144.5" height="5" rx="2.5" fill="#21262d"/>
-      <rect class="bar" style="animation-delay:0.42s" x="252.5" y="174" width="107.5" height="5" rx="2.5" fill="#39c5cf"/>
+      <rect class="bar" style="animation-delay:0.42s" x="252.5" y="174" width="108.1" height="5" rx="2.5" fill="#39c5cf"/>
     </g><g class="kutu" style="animation-delay:0.24s">
       <rect x="427" y="106" width="176.5" height="84" rx="12" fill="#0d1117" fill-opacity="0.7" stroke="#58a6ff" stroke-opacity="0.35"/>
       <text class="s" x="443" y="131" font-size="12.5" font-weight="700" fill="#c9d1d9">Depo</text>
