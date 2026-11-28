@@ -62,7 +62,7 @@
       <text class="s" x="246.78000000000003" y="183.32" text-anchor="middle" font-size="12" font-weight="600" fill="#e6edf3">Jupyter Notebook</text>
     </g><g>
       <rect x="321.96000000000004" y="166" width="91.2" height="26" rx="13" fill="#161b22" fill-opacity="0.85" stroke="#58a6ff" stroke-opacity="0.45"/>
-      <text class="s" x="367.56000000000006" y="183.32" text-anchor="middle" font-size="12" font-weight="600" fill="#e6edf3">JavaScript</text>
+      <text class="s" x="367.56000000000006" y="183.32" text-anchor="middle" font-size="12" font-weight="600" fill="#e6edf3">TypeScript</text>
     </g>
   <circle class="nabiz" cx="806" cy="44" r="4" fill="#58a6ff"/>
   <text class="s" x="725" y="104" text-anchor="middle" font-size="36" font-weight="800" fill="url(#yildizRenk)">814</text>
